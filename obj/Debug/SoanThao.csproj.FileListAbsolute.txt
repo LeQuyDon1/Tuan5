@@ -1,0 +1,10 @@
+C:\Users\don\source\repos\SoanThao\SoanThao\bin\Debug\SoanThao.exe.config
+C:\Users\don\source\repos\SoanThao\SoanThao\bin\Debug\SoanThao.exe
+C:\Users\don\source\repos\SoanThao\SoanThao\bin\Debug\SoanThao.pdb
+C:\Users\don\source\repos\SoanThao\SoanThao\obj\Debug\SoanThao.csproj.AssemblyReference.cache
+C:\Users\don\source\repos\SoanThao\SoanThao\obj\Debug\SoanThao.Form1.resources
+C:\Users\don\source\repos\SoanThao\SoanThao\obj\Debug\SoanThao.Properties.Resources.resources
+C:\Users\don\source\repos\SoanThao\SoanThao\obj\Debug\SoanThao.csproj.GenerateResource.cache
+C:\Users\don\source\repos\SoanThao\SoanThao\obj\Debug\SoanThao.csproj.CoreCompileInputs.cache
+C:\Users\don\source\repos\SoanThao\SoanThao\obj\Debug\SoanThao.exe
+C:\Users\don\source\repos\SoanThao\SoanThao\obj\Debug\SoanThao.pdb
